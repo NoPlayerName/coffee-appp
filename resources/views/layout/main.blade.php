@@ -23,9 +23,12 @@
     {{-- Navbar Start --}}
     <x-navbar />
     {{-- Navbar End --}}
-    <div class="container">
+
+    {{-- Hero section --}}
+    <div>
         @yield('container')
     </div>
+
     {{-- feather icons --}}
     <script>
         feather.replace();
