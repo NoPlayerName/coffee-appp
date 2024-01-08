@@ -1,6 +1,6 @@
 @extends('layout.main')
 
-@section('container')
+@section('home')
     <section class="hero" id="home">
         <main class="content">
             <h1>Mari Nikmati Secangkir <span>Kopi</span></h1>
