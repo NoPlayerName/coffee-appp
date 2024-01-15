@@ -30,6 +30,7 @@
         @yield('home')
         {{-- @yield('dashboard') --}}
         @include('dashboard.about')
+        @include('dashboard.menu')
     </div>
 
     {{-- feather icons --}}
