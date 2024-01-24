@@ -31,13 +31,20 @@
         {{-- @yield('dashboard') --}}
         @include('dashboard.about')
         @include('dashboard.menu')
+        @include('dashboard.kontak')
     </div>
+
+    {{-- Footer Start --}}
+    <x-footer />
+    {{-- Footer End --}}
 
     {{-- feather icons --}}
     <script>
         feather.replace();
     </script>
     <script src="{{ url('assets/js/script.js') }}"></script>
+
+
 </body>
 
 </html>

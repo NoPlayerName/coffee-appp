@@ -1,18 +1,39 @@
 <section class="menu" id="menu">
 
     <h2><span>Menu</span> Kami</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi accusantium porro, fugit ducimus neque labore
+        praesentium aut blanditiis pariatur omnis?</p>
     <div class="row">
-        <div class="about-img">
-            <img src="{{ url('assets/img/about.jpg') }}" alt="Tentang Kami">
+
+        <div class="menu-card">
+            <img src="{{ url('assets/img/menu/espresso.png') }}" alt="Espresso">
+            <h3 class="menu-card-title">- Espresso - </h3>
+            <p class="menu-card-price">IDR 15K</p>
         </div>
-
-        <div class="content">
-            <h3>Kenapa memilih kopi kami?</h3>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam fuga nesciunt repellat odio? Cumque, atque?
-            </p>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam, inventore animi? Eos labore commodi
-                voluptatibus fuga, possimus ipsa aliquid dolorum?</p>
-
+        <div class="menu-card">
+            <img src="{{ url('assets/img/menu/espresso.png') }}" alt="Espresso">
+            <h3 class="menu-card-title">- Espresso - </h3>
+            <p class="menu-card-price">IDR 15K</p>
+        </div>
+        <div class="menu-card">
+            <img src="{{ url('assets/img/menu/espresso.png') }}" alt="Espresso">
+            <h3 class="menu-card-title">- Espresso - </h3>
+            <p class="menu-card-price">IDR 15K</p>
+        </div>
+        <div class="menu-card">
+            <img src="{{ url('assets/img/menu/espresso.png') }}" alt="Espresso">
+            <h3 class="menu-card-title">- Espresso - </h3>
+            <p class="menu-card-price">IDR 15K</p>
+        </div>
+        <div class="menu-card">
+            <img src="{{ url('assets/img/menu/espresso.png') }}" alt="Espresso">
+            <h3 class="menu-card-title">- Espresso - </h3>
+            <p class="menu-card-price">IDR 15K</p>
+        </div>
+        <div class="menu-card">
+            <img src="{{ url('assets/img/menu/espresso.png') }}" alt="Espresso">
+            <h3 class="menu-card-title">- Espresso - </h3>
+            <p class="menu-card-price">IDR 15K</p>
         </div>
     </div>
 </section>
