@@ -11,7 +11,7 @@
             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam fuga nesciunt repellat odio? Cumque, atque?
             </p>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit vero facilis cum, nihil voluptatibus
-                eos aliquam blanditiis perspiciatis dolores placeat!</p>
+                e</p>
 
         </div>
     </div>
