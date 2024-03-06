@@ -10,8 +10,9 @@
             <h3>Kenapa memilih kopi kami?</h3>
             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam fuga nesciunt repellat odio? Cumque, atque?
             </p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit vero facilis cum, nihil voluptatibus
-                e</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error repellendus ratione cum, quaerat
+                dignissimos deserunt ipsum dolorum quas? Expedita iste soluta commodi excepturi magni totam tempora
+                explicabo ratione nam repudiandae.</p>
 
         </div>
     </div>
